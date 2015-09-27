@@ -1,6 +1,7 @@
 Codebook for Tidy Data R analysis
 
 Variables
+
 Subject                30
     Subject number
                        A group of volunteers participated in the wearable 
@@ -322,6 +323,7 @@ All the measurement values are means, which are aggregated over 30 subjects and 
 
 Note:
 For more information about this dataset contact: activityrecognition@smartlab.ws
+
 License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
